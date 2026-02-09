@@ -1,0 +1,66 @@
+header
+{
+    size: 30px;
+    align-items: center;
+    text-align: center;
+    color: rgba(248, 140, 227, 0.753);
+    background-color: rgba(132, 42, 220, 0.5);
+    box-shadow: 0 20px 30px rgb(255, 82, 203);
+    border-radius: 19px;
+
+    text-shadow:
+    -1px -1px 0 rgb(152, 37, 133),  
+     1px -1px 0 rgb(176, 23, 107),
+    -1px  1px 0 rgb(86, 8, 74),
+     1px  1px 0 rgb(132, 20, 97);
+    
+}
+body
+{
+    margin: 0;
+    text-align: center;
+    background-color: rgb(36, 79, 103);
+    /*background-image: url("img/night-sky-Milky-Way-Galaxy.webp"); inset: 0;
+    background-repeat: no-repeat;
+    background-size: 1500px;
+    background-position: center center;*/
+
+
+
+}
+footer
+{
+
+    color: rgba(0, 248, 236, 0.164);
+    text-align: center;
+    /* rgba can be used to make somthing transparent */
+    background-color: rgba(132, 42, 220, 0.5)
+    
+}
+.space {
+    margin-right: 10px;
+    color: rgba(248, 140, 227, 0.521);
+    background-color: rgba(132, 42, 220, 0.5);
+    text-shadow:
+    -1px -1px 0 rgb(152, 37, 133),  
+     1px -1px 0 rgb(176, 23, 107),
+    -1px  1px 0 rgb(86, 8, 74),
+     1px  1px 0 rgb(132, 20, 97);
+     box-shadow: 0 10px 10px rgb(255, 82, 203);
+     border-radius: 19px;
+
+}
+.write{
+    color: rgb(148, 173, 255);
+    text-shadow:
+    -1px -1px 0 rgb(152, 37, 133),  
+     1px -1px 0 rgb(176, 23, 107),
+    -1px  1px 0 rgb(86, 8, 74),
+     1px  1px 0 rgb(132, 20, 97);
+     box-shadow: 0 10px 10px rgb(255, 82, 203);
+    background-color: rgba(132, 42, 220, 0.5);
+}
+
+.nm{
+    background-image: url("img/red-grid-neon-patterned-background-vector_53876-173377.avif");;
+}
