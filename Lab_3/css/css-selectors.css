@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  font-family: Arial;
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+}
+
+p {
+  font-size: 18px;
+  color: #444;
+}
+
+#q1Text {
+  font-weight: bold;
+}
+
+#q2Text {
+  font-style: italic;
+}
+
+#q3Text {
+  color: blue;
+}
+
+#q4Text {
+  color: brown;
+}
+
+#q5Text {
+  color: green;
+}
+
+#q1ChoicesDiv {
+  padding: 10px;
+}
+
+#q2Input {
+  padding: 5px;
+  border: 1px solid gray;
+}
+
+#dropdown {
+  padding: 5px;
+}
+
+#numberInput {
+  width: 80px;
+  padding: 5px;
+}
+
+input {
+  margin: 5px;
+}
+
+#button {
+  padding: 10px;
+  background-color: green;
+  color: white;
+  border: none;
+}
+
+#score {
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+label {
+  margin-right: 10px;
+}
+
+#q1ChoicesDiv label {
+  display: block;
+}

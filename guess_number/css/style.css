@@ -1,67 +1,67 @@
-body{
-margin:0;
- padding:0;
-    background-color:#f2f2f2;
-font-family: Arial, sans-serif;
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f2f2f2;
+  font-family: Arial, sans-serif;
 }
 
-header{
- text-align:center;
+header {
+  text-align: center;
 }
 
-h1{
-  margin-bottom:5px;
+h1 {
+  margin-bottom: 5px;
 }
 
 h2 {
-font-size:18px;
- color:#555;
+  font-size: 18px;
+  color: #555;
 }
 
-#main{
- width:300px;
-    margin:20px auto;
-padding:15px;
- background-color:white;
-  border-radius:8px;
-border:1px solid #ccc;
+#main {
+  width: 300px;
+  margin: 20px auto;
+  padding: 15px;
+  background-color: white;
+  border-radius: 8px;
+  border: 1px solid #ccc;
 }
 
-#playerGuess{
- padding:5px;
-border:1px solid #888;
-   border-radius:4px;
+#playerGuess {
+  padding: 5px;
+  border: 1px solid #888;
+  border-radius: 4px;
 }
 
-#guessBtn{
- padding:6px 12px;
-background-color:#4CAF50;
- color:white;
-  border-radius:4px;
-margin-top:10px;
+#guessBtn {
+  padding: 6px 12px;
+  background-color: #4CAF50;
+  color: white;
+  border-radius: 4px;
+  margin-top: 10px;
 }
 
-button{
- border:none;
+button {
+  border: none;
 }
 
-button:hover{
- opacity:.8;
+button:hover {
+  opacity: .8;
 }
 
 #resetBtn {
-padding:6px 12px;
-background-color:#d9534f;
-color:white;
-margin-top:10px;
+  padding: 6px 12px;
+  background-color: #d9534f;
+  color: white;
+  margin-top: 10px;
 }
 
-#feedback{
- margin-top:15px;
-font-weight:bold;
+#feedback {
+  margin-top: 15px;
+  font-weight: bold;
 }
 
 #guesses {
- color:#333;
-margin-left:5px;
+  color: #333;
+  margin-left: 5px;
 }
